@@ -1,0 +1,51 @@
+COUNTA of TYPE,TYPE,,,,,,,,,,
+NEIGHBOURHOOD,,Break and Enter Commercial,Break and Enter Residential/Other,Mischief,Other Theft,Theft from Vehicle,Theft of Bicycle,Theft of Vehicle,Vehicle Collision or Pedestrian Struck (with Injury),Grand Total,Ranking
+,0,,,,,,,,,0,
+Musqueam,,,5,2,,4,,1,2,14,24
+Stanley Park,,,,2,,71,4,3,5,85,23
+Shaughnessy,,4,37,11,1,26,2,5,9,95,22
+South Cambie,,7,17,9,11,31,2,13,9,99,21
+Arbutus Ridge,,15,30,16,7,27,2,5,2,104,20
+West Point Grey,,7,25,16,5,44,8,7,2,114,19
+Kerrisdale,,11,30,10,5,43,4,10,8,121,18
+Dunbar-Southlands,,2,38,19,8,49,4,9,8,137,17
+Oakridge,,8,37,17,27,37,3,11,5,145,16
+Killarney,,4,48,26,6,68,4,26,16,198,15
+Victoria-Fraserview,,8,36,48,10,64,2,21,13,202,14
+Marpole,,20,41,32,14,84,5,25,13,234,13
+Riley Park,,16,58,37,10,80,12,20,11,244,12
+Hastings-Sunrise,,18,64,50,25,95,10,57,28,347,11
+Sunset,,25,54,74,31,126,4,46,15,375,10
+Strathcona,,40,40,82,21,162,12,40,17,414,9
+Kensington-Cedar Cottage,,25,78,68,58,156,17,70,19,491,8
+Renfrew-Collingwood,,27,92,78,69,153,6,51,24,500,7
+Kitsilano,,39,79,75,33,176,46,43,14,505,6
+Grandview-Woodland,,39,109,87,38,170,30,62,22,557,5
+Mount Pleasant,,57,55,75,67,193,52,50,39,588,4
+Fairview,,45,83,67,42,259,64,54,29,643,3
+West End,,54,65,103,112,354,53,45,17,803,2
+Central Business District,,197,69,286,342,853,132,80,76,2035,1
+Grand Total,0,668,1190,1290,942,3325,478,754,403,9050,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,INSIGHTS,,,,
+,,,,,,,"1.Central Business District (2035 cases) is an extreme outlier
+→ Nearly 2.5x higher than West End (803).
+This is not just high — it’s disproportionately concentrated, indicating a strong commercial-density effect.",,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,"2.Theft from Vehicle spikes abnormally in Central Business (853 cases)
+→ Much higher compared to all other neighbourhoods.
+Shows strong correlation between parking/commercial activity and vehicle theft.",,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,"3.West End has high “Other Theft” (112) compared to similar-ranked areas
+→ Indicates more mixed theft patterns, not just vehicle-related crime.",,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,"4.Mount Pleasant & Fairview show unusually high vehicle-related crimes
+→ Suggests commuter/residential overlap zones.",,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,"5.Shaughnessy & South Cambie show low overall crime but relatively higher residential break-ins proportionally
+→ Even low-crime areas may have targeted property risks.",,,,

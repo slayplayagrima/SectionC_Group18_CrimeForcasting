@@ -1,0 +1,40 @@
+TYPE,Type of Crime,Percentage
+,0,
+Break and Enter Commercial,668,7.38%
+Break and Enter Residential/Other,1190,13.15%
+Mischief,1290,14.25%
+Other Theft,942,10.41%
+Theft from Vehicle,3325,36.74%
+Theft of Bicycle,478,5.28%
+Theft of Vehicle,754,8.33%
+Vehicle Collision or Pedestrian Struck (with Injury),403,4.45%
+Grand Total,9050,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+INSIGHTS,,
+"1.Theft from Vehicle (36.7%) is 2.5x higher than the next category (Mischief 14.2%)
+→ Indicates extreme dominance of a single crime type — strong skew in distribution.",,
+"2.Break & Enter Residential (13.1%) is almost double Commercial (7.3%)
+→ Residential areas face higher vulnerability than commercial spaces.",,
+"3.Mischief (14.2%) slightly exceeds Residential Break-ins (13.1%)
+→ Property damage incidents are as significant as actual intrusion crimes.",,
+"4.Theft of Bicycle (5.3%) is lower than expected compared to Theft from Vehicle (36.7%)
+→ Suggests vehicle-related theft is a much larger urban risk factor.",,
+"5.Vehicle Collision with Injury (4.4%) is lowest but high impact
+→ Low frequency, but critical severity — forecasting should treat it separately from property crimes.",,

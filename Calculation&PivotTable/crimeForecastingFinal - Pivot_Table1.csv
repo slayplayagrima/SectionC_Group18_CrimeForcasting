@@ -1,0 +1,36 @@
+YEAR,COUNTA of TYPE,YOY %(Year over Year),Indicator
+,0,,
+1999,1010,,
+2000,964,-4.55%,Decrease
+2001,905,-6.12%,Decrease
+2002,819,-9.50%,Decrease
+2003,678,-17.22%,Decrease
+2004,638,-5.90%,Decrease
+2005,593,-7.05%,Decrease
+2006,547,-7.76%,Decrease
+2007,563,2.93%,Increase
+2008,523,-7.10%,Decrease
+2009,537,2.68%,Increase
+2010,613,14.15%,Increase
+2011,660,7.67%,Increase
+Grand Total,9050,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+INSIGHTS,,,
+"1.2003 is the steepest decline (-17.22%)
+→ Largest single-year structural shift in the dataset — clear break point.",,,
+"2.Decline Phase lasts 7 consecutive years (2000–2006)
+→ Strong sustained downward trend, not random fluctuation.",,,
+"3.2007 shows first reversal (+2.93%) after long decline
+→ Early signal of trend stabilization before later growth.",,,
+"4.2008 drops again (-7.10%) despite 2007 increase
+→ Indicates instability, not smooth recovery — volatility present.",,,
+"5.2010 spike (+14.15%) is highest positive growth in entire period
+→ Strong rebound signal — critical for forecasting upward trend risk.",,,

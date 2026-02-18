@@ -1,0 +1,33 @@
+COUNTA of TYPE,TYPE,,,,,,,,,,,
+HOUR,,Break and Enter Commercial,Break and Enter Residential/Other,Mischief,Other Theft,Theft from Vehicle,Theft of Bicycle,Theft of Vehicle,Vehicle Collision or Pedestrian Struck (with Injury),Grand Total,,
+,0,,,,,,,,,0,,
+0,,52,62,99,3,186,34,45,9,490,,
+1,,22,31,63,6,89,8,22,9,250,,
+2,,33,28,55,8,49,4,20,14,211,,
+3,,48,17,51,1,36,2,14,4,173,,
+4,,46,17,26,1,26,8,10,8,142,,
+5,,47,15,19,2,29,2,6,6,126,,
+6,,32,26,16,2,44,5,14,9,148,,
+7,,20,52,36,5,67,7,9,15,211,,
+8,,18,69,41,6,99,23,21,21,298,,
+9,,16,56,47,22,121,28,22,13,325,,
+10,,9,44,33,40,100,21,13,18,278,,
+11,,8,71,41,43,91,10,14,17,295,,
+12,,14,71,51,71,161,29,31,17,445,,
+13,,11,58,39,74,107,21,22,17,349,,
+14,,11,55,40,88,126,27,24,20,391,,
+15,,19,59,54,106,142,29,19,20,448,,
+16,,27,52,49,89,182,14,38,21,472,,
+17,,43,79,70,101,222,38,53,35,641,,
+18,,39,64,87,84,298,36,56,27,691,,INSIGHTS
+19,,26,63,69,51,225,32,54,20,540,,"1.Absolute Peak at 6 PM (691 cases)
+→ Highest single-hour crime concentration — clear critical deployment window."
+20,,30,51,74,62,232,31,62,27,569,,"2.Sharp Jump from 3 PM (448) to 5 PM (641)
+→ Rapid escalation in just 2 hours — transition from work hours to evening risk."
+21,,28,47,82,46,231,26,67,25,552,,"3.Lowest Point at 5 AM (126 cases)
+→ Clear trough before morning activity begins."
+22,,33,63,76,22,236,23,60,19,532,,"4.Vehicle Theft & Theft from Vehicle dominate evening spike
+→ Evening peak is largely vehicle-related, not evenly distributed across crimes."
+23,,36,40,72,9,226,20,58,12,473,,"5.Midday (11 AM–1 PM) remains moderately high (~295–445)
+→ Crime does not only peak at night; daytime activity is also significant."
+Grand Total,0,668,1190,1290,942,3325,478,754,403,9050,,
